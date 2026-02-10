@@ -1,6 +1,0 @@
-- Crea carpetas: modelos/ y servicios/
-- Implementa clase Producto con:
-  - Atributos: id, nombre, cantidad, precio
-  - Constructor y método __str__
-  - Getters y setters con validaciones básicas
-- Agrega archivo README.md inicial
